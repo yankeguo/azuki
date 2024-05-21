@@ -1,4 +1,4 @@
-package net.guoyk.azuki;
+package com.yankeguo.azuki;
 
 import java.util.List;
 import java.util.Map;

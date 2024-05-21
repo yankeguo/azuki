@@ -1,4 +1,4 @@
-package net.guoyk.azuki;
+package com.yankeguo.azuki;
 
 import org.junit.Test;
 import org.yaml.snakeyaml.Yaml;
